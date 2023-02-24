@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola 👋
+
+Mi nombre es Dario y soy desarrollador, vivo en Buenos Aires, Argentina. 🇦🇷
+
+
+**Acerca de mí**
+
+- 👩🏻‍💻 Software Engineer, actualmente trabajo con java, Sprintboot 
+- 👩🏻‍💻 Javascript, Angular y React
 
 <!--
 **darofane/darofane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
